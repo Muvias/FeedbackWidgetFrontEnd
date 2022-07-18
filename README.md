@@ -1,4 +1,5 @@
 # Feedback Widget - FrontEnd
+> Status: deployed
 - Widget developed at NLW in Rocketseat.
 
 <h2>Um widget para informar sobre poblemas no site ou dar ideias.</h2>
